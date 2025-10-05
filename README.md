@@ -1,7 +1,7 @@
 # Alameda County Science and Engineering Fair CodeFiles
 *Quantitative Analysis of Adaptogenic and Anxiolytic Nootropics’ Effects on Zebrafish Cognition Levels*
 
-Research Project conducted by Vihaan Mehta (Computational Models and Software) and Nehal Revuri (Biological Sciences)
+Research Project conducted by Vihaan Mehta (Computational Models) and Nehal Revuri (Biology)
 
 My responsibility was to create all computational and data visualization models for the experiments. This included the models of different chemical molecules, the vision algorithm to detect fish position, and the methodology for generating graphs based on data. Additionally, built an Arduino-based circuit, that used enviornmental sensors (water temperature, light, etc.) to collect data.
 
