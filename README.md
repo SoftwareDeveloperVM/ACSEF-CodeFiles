@@ -1,4 +1,4 @@
-# Alameda County Science and Engineering Fair CodeFiles
+# Alameda County Science and Engineering Fair Files
 *Quantitative Analysis of Adaptogenic and Anxiolytic Nootropics’ Effects on Zebrafish Cognition Levels*
 
 Research Project conducted by Vihaan Mehta (Computational Models) and Nehal Revuri (Biology)
