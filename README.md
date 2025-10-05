@@ -1,4 +1,4 @@
-# Alameda County Science and Engineering Fair Project CodeFiles
+# Alameda County Science and Engineering Fair CodeFiles
 *Quantitative Analysis of Adaptogenic and Anxiolytic Nootropics’ Effects on Zebrafish Cognition Levels*
 
 The analysis below is based upon computational methods outlined in this codebase, with the software for each model being found in different folders and files above. In essence, the study's focus was around the effect of nootropics on fish, and how that would relate to human performance.
