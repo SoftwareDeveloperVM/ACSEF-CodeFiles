@@ -1,5 +1,5 @@
 # ACSEF-CodeFiles
-*Quantitative Analysis of Adaptogenic and Anxiolytic Nootropics’ Effects on Zebrafish Cognition and Activity/Anxiety Levels*
+*Quantitative Analysis of Adaptogenic and Anxiolytic Nootropics’ Effects on Zebrafish Cognition Levels*
 
 ### Vision Algorithm
 
