@@ -3,8 +3,18 @@
 
 The analysis below is based upon computational methods outlined in this codebase, with the software for each model being found in different folders and files above. In essence, the study's focus was around the effect of nootropics on fish, and how that would realte to human performence.
 
+![Image](Images/Setup.png)
 
-### Vision Algorithm
+### Graph Visualizations
+Attached below is a sample of the metric utilized to visualize 12 of the test cases ran, within the form of 4 insightful graphs.
+
+![Image](Images/GraphPreviewOne.png)
+![Image](Images/GraphPreviewTwo.png)
+
+## Methodology Visuals
+![Image](Images/DrugDosage.png)
+![Image](Images/TestingMethods.png)
+
 
 **NMDA Receptor** ``NMDAReceptor.py``
 
@@ -26,6 +36,15 @@ This is a model demonstrated how three different drugs that are studied within t
 
 ![Image](Images/ChemicalModelsRepresentation.png)
 
-### Graph Visualizations
+
+
+### Vision Algorithm
+``ImageLogger.py``
+This software simply logged down the images from the camera roll, and stored them in a local image file base on the computer based upon the date. Additionally, there were also timestamps printed on the image for easy clarification.
+
+``ImageTracker.py``
+
+Compared to the Logger software, the tracker software placed a box around the subject to follow it around, and reflected that on the taken images. It was used to track the position, distance, and speed of the subject over periods of time, adn this data was stored locally fo rthe test files. It ran on a local Raspberry Pi setup with a camera, placed over the fishtank.
 
 ### Testing Data
+Wtih ``data1.py`` to ``data12.py``, all of these test cases are the 12 different 10-hour long trials ran using the computer vision model to track the fish's behavior and position on three axes (X, Y, Z) over time.
